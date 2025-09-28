@@ -1,5 +1,7 @@
 # global-assets
 
+A repository for shared static assets, served via jsDelivr.
+
 ## Example Usage
 
 ```py
